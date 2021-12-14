@@ -7,7 +7,7 @@ import Home from "./components/Home"
 
 function App() {
   return (
-    <div>
+    <div className="m-auto">
       <MyNavbar></MyNavbar>
       <Welcome></Welcome>
       <Home></Home>
